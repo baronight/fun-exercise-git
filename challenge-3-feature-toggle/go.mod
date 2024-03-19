@@ -1,3 +1,3 @@
 module github.com/orgs/KKGo-Software-engineering/fun-ex-git
 
-go 1.22.0
+go 1.22
